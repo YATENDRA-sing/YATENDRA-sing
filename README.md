@@ -1,151 +1,155 @@
-# Hi there, I'm Yatendra! 👋
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=YATENDRA;Full+Stack+Developer;Java+%7C+DSA+%7C+SQL" alt="Yatendra Animated Name" /></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;Java+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
+
+## <div align="center">🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=400&lines=Hi+there!+I'm+Yatendra;Java+Developer+%26+Problem+Solver;Building+Amazing+Applications" alt="Dynamic Introduction" /></div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yatendra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yatendra?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=yatendra&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yatendra?label=Followers&style=for-the-badge&color=orange" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Current Focus" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```java
-public class Yatendra extends Developer {
-    private String[] skills = {
-        "Java", "Full Stack Development", 
-        "Data Structures & Algorithms", 
-        "SQL (Oracle)", "Python", "C"
-    };
-    
-    public String getCurrentFocus() {
-        return "Building scalable applications & mastering DSA";
-    }
-    
-    public String getEmail() {
-        return "arimanpratapsinghji@gmail.com";
-    }
-    
-    public boolean isAvailableForOpportunities() {
-        return true;
-    }
-}
-```
-
-- 🔭 I'm currently working on **Full Stack Applications**
-- 🌱 I'm learning **Advanced Java Frameworks & System Design**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, DSA, Full Stack Development**
-- 📫 How to reach me: **arimanpratapsinghji@gmail.com**
-- ⚡ Fun fact: **I debug with println statements and I'm not ashamed!**
-
----
-
-## 🛠️ Tech Stack
+## 💫 About Me
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=400&size=16&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=180&lines=👨‍💻+Passionate+Full+Stack+Developer;☕+Java+Enthusiast+%26+Problem+Solver;🔍+Data+Structures+%26+Algorithms+Expert;🗄️+Database+Professional+(Oracle+SQL);🐍+Python+%26+C+Programming;📧+arimanpratapsinghji%40gmail.com;🌟+Always+Learning+%26+Growing" alt="About Me Animation" />
+</div>
 
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-</p>
-
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=yatendra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=79dafa&text_color=ffffff&count_private=true" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🔥 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1000&pause=1000&color=F7931E&center=false&vCenter=true&width=300&lines=SKILLS+%26+TECH" alt="Skills Header" />
 
+### 🚀 Programming Languages
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yatendra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yatendra's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yatendra&theme=tokyonight&hide_border=true" alt="Yatendra's Streak Stats"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark&perline=6" alt="Programming Languages" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatendra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=500&color=4EC9B0&center=true&vCenter=true&width=800&lines=Java+⭐⭐⭐⭐⭐+Advanced+|+Python+⭐⭐⭐⭐+Intermediate+|+C+⭐⭐⭐+Good;JavaScript+⭐⭐⭐⭐+Intermediate+|+HTML%2FCSS+⭐⭐⭐⭐+Good" alt="Skill Levels" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
+### 🛠️ Frameworks & Technologies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yatendra&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,mysql,git,vscode,idea,oracle&theme=dark&perline=8" alt="Frameworks and Tools" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatendra&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🎯 DSA Progress
-
+### 📊 Specialized Areas
 <div align="center">
 
-### 💪 Problem Solving Stats
-```
-📊 Data Structures & Algorithms Journey
-
-🔥 Problems Solved: 500+
-⭐ Current Focus: Dynamic Programming & Graph Algorithms
-🎯 Daily Goal: Solve 2-3 problems
-📈 Streak: Building consistency!
-
-Arrays ████████████████████████████ 90%
-Strings ██████████████████████████ 85%
-Linked Lists ████████████████████████ 80%
-Trees ██████████████████████ 75%
-Graphs ████████████████ 60%
-Dynamic Programming ████████████ 55%
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🎯 DATA STRUCTURES & ALGORITHMS                             ║
+║  ████████████████████████████████████████████████████ 90%   ║
+║                                                              ║
+║  🗃️ SQL & DATABASE MANAGEMENT                               ║
+║  ██████████████████████████████████████████████████ 85%     ║
+║                                                              ║
+║  🌐 FULL STACK DEVELOPMENT                                   ║
+║  ████████████████████████████████████████████████ 80%       ║
+║                                                              ║
+║  ☕ JAVA DEVELOPMENT                                         ║
+║  ██████████████████████████████████████████████████████ 95% ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 📈 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=1500&pause=500&color=9745F5&center=false&vCenter=true&width=300&lines=GITHUB+STATS" alt="GitHub Stats Header" />
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yatendra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yatendra&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatendra&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages"/>
+</div>
+
+---
+
+## 🏆 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=2000&pause=1000&color=FFD700&center=false&vCenter=true&width=200&lines=ACHIEVEMENTS" alt="Achievements Header" />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yatendra&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📊 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=700&color=FF4081&center=false&vCenter=true&width=350&lines=CODING+ACTIVITY" alt="Activity Header" />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatendra&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&area=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 💼 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=700&size=24&duration=2500&pause=800&color=00E676&center=false&vCenter=true&width=400&lines=PROFESSIONAL+FOCUS" alt="Focus Header" />
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=400&height=120&lines=🔸+Building+Scalable+Applications;🔸+Optimizing+Database+Queries;🔸+Solving+Complex+Algorithms;🔸+Full+Stack+Architecture" alt="Current Work" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=400&height=120&lines=🚀+Spring+Boot+Microservices;🚀+React+%26+Node.js+Apps;🚀+Oracle+Database+Design;🚀+System+Design+Patterns" alt="Technologies" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=2000&pause=1200&color=FF5722&center=false&vCenter=true&width=300&lines=DSA+JOURNEY" alt="DSA Header" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=16&duration=5000&pause=1500&color=4CAF50&center=true&vCenter=true&multiline=true&width=700&height=200&lines=📚+Data+Structures+%26+Algorithms+Mastery;✅+500%2B+Problems+Solved+Across+Platforms;⚡+Focus%3A+Dynamic+Programming+%26+Graph+Theory;🎯+Daily+Goal%3A+Consistent+Problem+Solving;🏆+Competitive+Programming+Enthusiast;💡+Optimized+Solutions+%26+Clean+Code;🔥+Building+Strong+Foundation+Every+Day" alt="DSA Journey" />
+</div>
+
+<div align="center">
+
+```
+🎖️ PROBLEM SOLVING STATS 🎖️
+
+Arrays & Strings    ████████████████████████████████ 95%
+Linked Lists        ████████████████████████████████ 90%
+Trees & Graphs      ██████████████████████████████   85%
+Dynamic Programming ██████████████████████████       75%
+System Design       ████████████████████             65%
+```
+
+</div>
+
+---
+
+## 🌐 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=24&duration=1200&pause=600&color=2196F3&center=false&vCenter=true&width=250&lines=CONNECT+WITH+ME" alt="Connect Header" />
 
 <div align="center">
   <a href="mailto:arimanpratapsinghji@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/📧_Email-arimanpratapsinghji@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div>
+
+<div align="center">
   <a href="https://linkedin.com/in/yatendra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yatendra">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/yatendra">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/yatendra">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -154,46 +158,39 @@ Dynamic Programming ████████████ 55%
 
 ---
 
-## 💼 Featured Projects
+## 🎨 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1500&pause=700&color=9C27B0&center=false&vCenter=true&width=300&lines=FEATURED+REPOS" alt="Repos Header" />
 
 <div align="center">
-
-### 🚀 Repository Highlights
-<a href="https://github.com/yatendra/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yatendra&repo=project1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/yatendra/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yatendra&repo=project2&theme=tokyonight&hide_border=true" />
-</a>
-
+  <a href="https://github.com/yatendra/awesome-java-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yatendra&repo=awesome-java-project&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+  </a>
+  <a href="https://github.com/yatendra/dsa-solutions">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yatendra&repo=dsa-solutions&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+  </a>
 </div>
 
 ---
 
-## 🎨 Coding Activity
+## 🐍 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=1000&pause=500&color=4CAF50&center=false&vCenter=true&width=200&lines=SNAKE+GAME" alt="Snake Header" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yatendra&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</div>
-
----
-
-## 🐍 Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&fontSize=0&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+build+amazing+things+together!+🚀" alt="Thank You Message" />
 </div>
 
 <div align="center">
   
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💫 *"Code is poetry written in logic"*
 
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
+**Made with ❤️ by Yatendra**
 
 </div>
